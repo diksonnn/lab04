@@ -130,16 +130,9 @@ class Program
 
     static void Main()
     {
-        Console.Write("Введите сумму (от 1 до 100000): ");
-        if (int.TryParse(Console.ReadLine(), out int inputNumber))
-        {
-            string result = ConvertNumberToWords(inputNumber).Trim();
-            result = char.ToUpper(result[0]) + result.Substring(1);
-            Console.WriteLine(result);
-        }
-        else
-        {
-            Console.WriteLine("Введено некорректное число");
-        }
+        Console.Write("Введите число (от 1 до 100000): ");
+        string result = ConvertNumberToWords(inputNumber).Trim();
+        result = char.ToUpper(result[0]) + result.Substring(1);
+        Console.WriteLine(result);
     }
 }
