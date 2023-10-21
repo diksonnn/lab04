@@ -1,0 +1,8 @@
+C:\Users\denyx\OneDrive\Desktop\Test\bankomat\bin\Debug\bankomat.exe.config
+C:\Users\denyx\OneDrive\Desktop\Test\bankomat\bin\Debug\bankomat.exe
+C:\Users\denyx\OneDrive\Desktop\Test\bankomat\bin\Debug\bankomat.pdb
+C:\Users\denyx\OneDrive\Desktop\Test\bankomat\obj\Debug\bankomat.csproj.AssemblyReference.cache
+C:\Users\denyx\OneDrive\Desktop\Test\bankomat\obj\Debug\bankomat.csproj.SuggestedBindingRedirects.cache
+C:\Users\denyx\OneDrive\Desktop\Test\bankomat\obj\Debug\bankomat.csproj.CoreCompileInputs.cache
+C:\Users\denyx\OneDrive\Desktop\Test\bankomat\obj\Debug\bankomat.exe
+C:\Users\denyx\OneDrive\Desktop\Test\bankomat\obj\Debug\bankomat.pdb
